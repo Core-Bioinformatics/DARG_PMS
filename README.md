@@ -1,1 +1,7 @@
-#DARG_PMS
+**Integrative single-cell analysis of neural stem/progenitor cells reveals epigenetically dysregulated interferon response in progressive multiple sclerosis**
+
+B Park*, AM Nicaise*, D Tsitsipatis*, L Pirvan, P Prasad, M Larraz Lopez De Novales, J Whitten, L Culig2, J Llewellyn, RB Ionescu, CM Willis, G Krzak, J Fan, S De, M Suarez Cubero, L Peruzzotti-Jametti, T Leonardi7, F Edenhofer, M Gorospe, I Mohorianu°, S Pluchino°, and I Beerman°
+
+Progressive multiple sclerosis (PMS) is characterized by a primary smoldering pathological disease process associated with a superimposed inflammatory activity. Cellular and molecular processes sustaining the pathobiology of PMS remain to be identified.
+We previously discovered senescence signatures in neural stem/progenitor cells (NSCs) from people with PMS. Applying direct reprogramming to generate directly induced NSCs (iNSCs) from somatic fibroblasts, we retain epigenetic information and observe hypomethylation of genes associated with lipid metabolic processes and IFN signaling only in PMS lines. Single-cell/nucleus transcriptomic and epigenetic profiling reveal an inflammatory, senescent-like, IFN-responsive radial glia (RG)-like cell subcluster mainly in PMS iNSCs that is driven by IFN-associated transcription factors. Lastly, we identify a population of senescent, IFN-responsive, disease-associated RG-like cells (DARGs) in the PMS brain that share pseudotime trajectories with iNSCs in vitro. 
+We describe the existence of a non-neurogenic, dysfunctional DARG population that has the potential to fuel smoldering inflammation in PMS.
